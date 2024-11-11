@@ -4,3 +4,6 @@ parts:
   - caption: 文本标记
     chapters: 
       - file: text_marking/a.ipynb
+    - caption: 文本分块
+    chapters: 
+      - file: text_marking/text_chunking_summary.ipynb
